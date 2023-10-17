@@ -1,0 +1,15 @@
+2023/10/15-15:41:37.188 1a5c Reusing MANIFEST C:/Users/USER/OneDrive/Documentos/Unreal Projects/vr_kayak/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/15-15:41:37.192 1a5c Recovering log #4
+2023/10/15-15:41:37.192 1a5c Reusing old log C:/Users/USER/OneDrive/Documentos/Unreal Projects/vr_kayak/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/10/15-16:01:10.600 220c Level-0 table #8: started
+2023/10/15-16:01:10.769 220c Level-0 table #8: 1007 bytes OK
+2023/10/15-16:01:10.777 220c Delete type=0 #4
+2023/10/15-16:01:10.777 220c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/15-16:01:10.777 220c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 49 : 1
+2023/10/15-16:01:10.777 220c Compacting 1@1 + 1@2 files
+2023/10/15-16:01:10.951 220c Generated table #9@1: 17 keys, 511 bytes
+2023/10/15-16:01:10.951 220c Compacted 1@1 + 1@2 files => 511 bytes
+2023/10/15-16:01:10.955 220c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/15-16:01:10.955 220c Delete type=2 #5
+2023/10/15-16:01:10.955 220c Delete type=2 #8
+2023/10/15-16:01:10.955 220c Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 49 : 1 .. (end); will stop at (end)

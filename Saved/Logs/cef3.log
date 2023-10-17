@@ -1,0 +1,46 @@
+[0925/204933.977:ERROR:device_event_log_impl.cc(208)] [20:49:33.978] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[0925/205056.947:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
+[0925/205057.044:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[0925/205057.302:WARNING:gpu_process_host.cc(972)] Reinitialized the GPU process after a crash. The reported initialization time was 256 ms
+[0925/205204.823:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0925/205204.824:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0925/205204.906:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0925/205204.908:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0925/225154.871:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225154.871:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225159.873:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225159.873:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225204.876:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225204.876:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225209.878:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225209.878:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225214.879:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225214.880:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225219.882:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225219.882:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225224.883:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225224.883:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225229.884:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225229.884:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225234.886:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225234.886:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225239.888:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225239.888:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225244.890:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225244.890:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225249.891:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225249.891:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225254.893:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225254.893:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225259.894:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225259.895:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225304.895:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225304.896:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225309.897:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0925/225309.898:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1015/154137.935:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1015/154137.936:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1015/154137.940:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1015/154137.940:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1015/154138.064:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 27
+[1015/154138.065:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 29
